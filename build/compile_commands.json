@@ -1,0 +1,55 @@
+[
+{
+  "directory": "/mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/build",
+  "command": "/usr/bin/clang++-12  -DLINUX -I../ -I../common -I../ext -I/usr/include/SDL2 -I../src/glad -I../src/KHR -I../src/glm  -O3 -DNDEBUG   -Wall -o src/CMakeFiles/final.dir/apphandler.cpp.o -c /mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/apphandler.cpp",
+  "file": "/mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/apphandler.cpp"
+},
+
+{
+  "directory": "/mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/build",
+  "command": "/usr/bin/cc -DLINUX -I../ -I../common -I../ext -I/usr/include/SDL2 -I../src/glad -I../src/KHR -I../src/glm  -O3 -DNDEBUG   -Wall -o src/CMakeFiles/final.dir/glad.c.o   -c /mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/glad.c",
+  "file": "/mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/glad.c"
+},
+
+{
+  "directory": "/mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/build",
+  "command": "/usr/bin/clang++-12  -DLINUX -I../ -I../common -I../ext -I/usr/include/SDL2 -I../src/glad -I../src/KHR -I../src/glm  -O3 -DNDEBUG   -Wall -o src/CMakeFiles/final.dir/main.cpp.o -c /mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/main.cpp",
+  "file": "/mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/main.cpp"
+},
+
+{
+  "directory": "/mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/build",
+  "command": "/usr/bin/clang++-12  -DLINUX -I../ -I../common -I../ext -I/usr/include/SDL2 -I../src/glad -I../src/KHR -I../src/glm  -O3 -DNDEBUG   -Wall -o src/CMakeFiles/final.dir/matrixhandler.cpp.o -c /mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/matrixhandler.cpp",
+  "file": "/mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/matrixhandler.cpp"
+},
+
+{
+  "directory": "/mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/build",
+  "command": "/usr/bin/clang++-12  -DLINUX -I../ -I../common -I../ext -I/usr/include/SDL2 -I../src/glad -I../src/KHR -I../src/glm  -O3 -DNDEBUG   -Wall -o src/CMakeFiles/final.dir/object.cpp.o -c /mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/object.cpp",
+  "file": "/mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/object.cpp"
+},
+
+{
+  "directory": "/mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/build",
+  "command": "/usr/bin/clang++-12  -DLINUX -I../ -I../common -I../ext -I/usr/include/SDL2 -I../src/glad -I../src/KHR -I../src/glm  -O3 -DNDEBUG   -Wall -o src/CMakeFiles/final.dir/shaderhandler.cpp.o -c /mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/shaderhandler.cpp",
+  "file": "/mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/shaderhandler.cpp"
+},
+
+{
+  "directory": "/mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/build",
+  "command": "/usr/bin/clang++-12  -DLINUX -I../ -I../common -I../ext -I/usr/include/SDL2 -I../src/glad -I../src/KHR -I../src/glm  -O3 -DNDEBUG   -Wall -o src/CMakeFiles/final.dir/stb_image.cpp.o -c /mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/stb_image.cpp",
+  "file": "/mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/stb_image.cpp"
+},
+
+{
+  "directory": "/mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/build",
+  "command": "/usr/bin/clang++-12  -DLINUX -I../ -I../common -I../ext -I/usr/include/SDL2 -I../src/glad -I../src/KHR -I../src/glm  -O3 -DNDEBUG   -Wall -o src/CMakeFiles/final.dir/texturehandler.cpp.o -c /mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/texturehandler.cpp",
+  "file": "/mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/texturehandler.cpp"
+},
+
+{
+  "directory": "/mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/build",
+  "command": "/usr/bin/clang++-12  -DLINUX -I../ -I../common -I../ext -I/usr/include/SDL2 -I../src/glad -I../src/KHR -I../src/glm  -O3 -DNDEBUG   -Wall -o src/CMakeFiles/final.dir/windowhandle.cpp.o -c /mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/windowhandle.cpp",
+  "file": "/mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/windowhandle.cpp"
+}
+]

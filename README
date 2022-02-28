@@ -1,0 +1,24 @@
+To build simply call make in root directory.
+
+This Project requires: 
+	clang++-12 libsdl2-dev ninja-build
+
+Controls:
+	WASD: Move the Camera 
+	Space: Raise the Camera
+	CTRL: Lower the Camera
+
+	Mouse Movement: Rotate the Camera
+	Q: Toggle Capture the mouse for ease of control
+
+	1: Toggle Post Processing Mode
+		- By defult edge detection
+		- swap to no processing
+	2: Swap Ortho view
+
+
+	ESC: Exit the program
+
+
+Code Reuse:
+	To load textures I use stb_image.h from Sean Barrett: https://github.com/nothings

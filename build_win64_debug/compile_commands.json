@@ -1,0 +1,47 @@
+[
+{
+  "directory": "C:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/build_win64_debug",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -DWINDOWS -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1 -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/common -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/ext -I\"C:/Program Files/SDL2-2.0.16/include\" -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/glad -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/KHR -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/glm -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -o src\\CMakeFiles\\final.dir\\apphandler.cpp.obj -c C:\\Users\\twili\\Documents\\GitHub\\5229Homework\\Sm2-HW1\\src\\apphandler.cpp",
+  "file": "C:\\Users\\twili\\Documents\\GitHub\\5229Homework\\Sm2-HW1\\src\\apphandler.cpp"
+},
+{
+  "directory": "C:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/build_win64_debug",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang.exe -DWINDOWS -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1 -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/common -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/ext -I\"C:/Program Files/SDL2-2.0.16/include\" -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/glad -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/KHR -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/glm -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -o src\\CMakeFiles\\final.dir\\glad.c.obj -c C:\\Users\\twili\\Documents\\GitHub\\5229Homework\\Sm2-HW1\\src\\glad.c",
+  "file": "C:\\Users\\twili\\Documents\\GitHub\\5229Homework\\Sm2-HW1\\src\\glad.c"
+},
+{
+  "directory": "C:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/build_win64_debug",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -DWINDOWS -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1 -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/common -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/ext -I\"C:/Program Files/SDL2-2.0.16/include\" -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/glad -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/KHR -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/glm -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -o src\\CMakeFiles\\final.dir\\main.cpp.obj -c C:\\Users\\twili\\Documents\\GitHub\\5229Homework\\Sm2-HW1\\src\\main.cpp",
+  "file": "C:\\Users\\twili\\Documents\\GitHub\\5229Homework\\Sm2-HW1\\src\\main.cpp"
+},
+{
+  "directory": "C:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/build_win64_debug",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -DWINDOWS -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1 -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/common -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/ext -I\"C:/Program Files/SDL2-2.0.16/include\" -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/glad -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/KHR -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/glm -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -o src\\CMakeFiles\\final.dir\\matrixhandler.cpp.obj -c C:\\Users\\twili\\Documents\\GitHub\\5229Homework\\Sm2-HW1\\src\\matrixhandler.cpp",
+  "file": "C:\\Users\\twili\\Documents\\GitHub\\5229Homework\\Sm2-HW1\\src\\matrixhandler.cpp"
+},
+{
+  "directory": "C:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/build_win64_debug",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -DWINDOWS -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1 -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/common -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/ext -I\"C:/Program Files/SDL2-2.0.16/include\" -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/glad -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/KHR -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/glm -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -o src\\CMakeFiles\\final.dir\\object.cpp.obj -c C:\\Users\\twili\\Documents\\GitHub\\5229Homework\\Sm2-HW1\\src\\object.cpp",
+  "file": "C:\\Users\\twili\\Documents\\GitHub\\5229Homework\\Sm2-HW1\\src\\object.cpp"
+},
+{
+  "directory": "C:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/build_win64_debug",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -DWINDOWS -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1 -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/common -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/ext -I\"C:/Program Files/SDL2-2.0.16/include\" -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/glad -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/KHR -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/glm -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -o src\\CMakeFiles\\final.dir\\shaderhandler.cpp.obj -c C:\\Users\\twili\\Documents\\GitHub\\5229Homework\\Sm2-HW1\\src\\shaderhandler.cpp",
+  "file": "C:\\Users\\twili\\Documents\\GitHub\\5229Homework\\Sm2-HW1\\src\\shaderhandler.cpp"
+},
+{
+  "directory": "C:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/build_win64_debug",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -DWINDOWS -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1 -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/common -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/ext -I\"C:/Program Files/SDL2-2.0.16/include\" -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/glad -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/KHR -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/glm -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -o src\\CMakeFiles\\final.dir\\stb_image.cpp.obj -c C:\\Users\\twili\\Documents\\GitHub\\5229Homework\\Sm2-HW1\\src\\stb_image.cpp",
+  "file": "C:\\Users\\twili\\Documents\\GitHub\\5229Homework\\Sm2-HW1\\src\\stb_image.cpp"
+},
+{
+  "directory": "C:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/build_win64_debug",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -DWINDOWS -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1 -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/common -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/ext -I\"C:/Program Files/SDL2-2.0.16/include\" -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/glad -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/KHR -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/glm -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -o src\\CMakeFiles\\final.dir\\texturehandler.cpp.obj -c C:\\Users\\twili\\Documents\\GitHub\\5229Homework\\Sm2-HW1\\src\\texturehandler.cpp",
+  "file": "C:\\Users\\twili\\Documents\\GitHub\\5229Homework\\Sm2-HW1\\src\\texturehandler.cpp"
+},
+{
+  "directory": "C:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/build_win64_debug",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -DWINDOWS -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1 -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/common -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/ext -I\"C:/Program Files/SDL2-2.0.16/include\" -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/glad -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/KHR -IC:/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/src/glm -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -o src\\CMakeFiles\\final.dir\\windowhandle.cpp.obj -c C:\\Users\\twili\\Documents\\GitHub\\5229Homework\\Sm2-HW1\\src\\windowhandle.cpp",
+  "file": "C:\\Users\\twili\\Documents\\GitHub\\5229Homework\\Sm2-HW1\\src\\windowhandle.cpp"
+}
+]

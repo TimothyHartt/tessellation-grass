@@ -1,0 +1,5 @@
+/mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/twili/Documents/GitHub/5229Homework/Sm2-HW1/build/src/CMakeFiles/final.dir

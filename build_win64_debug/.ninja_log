@@ -1,0 +1,12 @@
+# ninja log v5
+19	383	6674528041497005	build.ninja	bb93f51ee85cccfa
+18	506	6674433270169382	src/CMakeFiles/final.dir/texturehandler.cpp.obj	6c811b321ea1a02f
+6	785	6674433272899377	src/CMakeFiles/final.dir/glad.c.obj	4de9095aa6e06313
+1112	1808	6674433282944350	bin/final.exe	f5a91dbc54305251
+10	670	6674433271799375	src/CMakeFiles/final.dir/matrixhandler.cpp.obj	d5e6f50405a268f4
+16	714	6674433272249397	src/CMakeFiles/final.dir/stb_image.cpp.obj	42bd860fb0c123c9
+13	925	6674433274339380	src/CMakeFiles/final.dir/shaderhandler.cpp.obj	a81d191e5e8a8f9a
+3	1095	6674433276049367	src/CMakeFiles/final.dir/apphandler.cpp.obj	d0ce5f04aa2c0f69
+22	1091	6674433276009367	src/CMakeFiles/final.dir/windowhandle.cpp.obj	8943bce5366a98f9
+8	995	6674433275029364	src/CMakeFiles/final.dir/object.cpp.obj	1328edae6f0b28c2
+0	1111	6674433276219365	src/CMakeFiles/final.dir/main.cpp.obj	5fa2c7d802751c1d
